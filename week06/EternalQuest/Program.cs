@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the EternalQuest Project.");
+        GoalManager goalManager = new GoalManager();
+
+        // Start the GoalManager which will run the menu loop
+        goalManager.Start();
+
     }
 }
