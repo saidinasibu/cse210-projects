@@ -1,0 +1,5 @@
+Score:100
+SimpleGoal:singing~singing hymn at the time~100~True
+EternalGoal:Strudy the scriptures~study in the book of mormon~400
+CheckListGoal:fasting and praying~Every first sunday of the month~50~20~3~0
+SimpleGoal:Fasting and praying~I'll do it every first sunday of the month~70~False
